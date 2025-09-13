@@ -1,41 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yuxing Yao (姚昱星)
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Yuxing
+last_name: Yao
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Chemical and Biological Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Hong Kong University of Science and Technology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on using soft functional materials, ultrasound technology and synthetic biology tools to develop tools for non-invasive medicine.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Soft functional materials
+  - Ultrasound 
+  - Synthetic biology
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Materials Chemistry
+      institution: Harvard University
+      year: 2019
+    - course: BSc in Chemistry (Fundamental Sciences in Chemistry and Biology)
+      institution: Tsinghua University
+      year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +41,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:yxyao@ust.hk'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://x.com/yuxing_yao
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=VFpWupoAAAAJ&hl=en#
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +66,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Yuxing Yao is an assistant professor of chemical and biological engineering at the Hong Kong University of Science and Technology (HKUST). His research focusing on developing soft functional materials, ultrasound technology and synthetic biology tools for new technologies toward non-invasive medicine. 
