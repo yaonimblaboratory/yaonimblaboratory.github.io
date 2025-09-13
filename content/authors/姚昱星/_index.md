@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigator
 ---
 
 Yuxing Yao is an assistant professor of chemical and biological engineering at the Hong Kong University of Science and Technology (HKUST). His research focusing on developing soft functional materials, ultrasound technology and synthetic biology tools for new technologies toward non-invasive medicine. 
